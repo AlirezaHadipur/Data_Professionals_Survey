@@ -1,0 +1,27 @@
+[
+  {
+    "Q1 - Which Title Best Fits your Current Role?": "Business Analyst",
+    "average": "5.71",
+    "number_of_participants": "7"
+  },
+  {
+    "Q1 - Which Title Best Fits your Current Role?": "Data Scientist",
+    "average": "5.68",
+    "number_of_participants": "25"
+  },
+  {
+    "Q1 - Which Title Best Fits your Current Role?": "Database Developer",
+    "average": "5.60",
+    "number_of_participants": "5"
+  },
+  {
+    "Q1 - Which Title Best Fits your Current Role?": "Data Engineer",
+    "average": "5.11",
+    "number_of_participants": "38"
+  },
+  {
+    "Q1 - Which Title Best Fits your Current Role?": "Data Analyst",
+    "average": "5.11",
+    "number_of_participants": "380"
+  }
+]

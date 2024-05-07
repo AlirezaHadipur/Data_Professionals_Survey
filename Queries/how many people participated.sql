@@ -1,0 +1,4 @@
+-- Query: How many people participated?
+
+SELECT COUNT(*)
+FROM PROFESSIONALS_DATA AS TOTLA_PARTICIPANTS
